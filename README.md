@@ -7,5 +7,4 @@
   
 # Mean
   Mean is given by the total of the values of the samples divided by the number of samples. In mathematical terms this would mean:
-  
   x̄ is the mean and there are n values of x. Σ means that you need to take the sum of all the data points.
